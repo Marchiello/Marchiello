@@ -1,0 +1,62 @@
+D ocument
+O bject
+M odel
+
+====================
+
+Arvore DOM
+
+- window
+    * location(Localização, URL)
+    * document(documento atual)
+        - html
+            * head
+                - Meta
+                - title
+            * body
+                - h1
+                -p
+                -p
+                    * strong
+                -div
+    * history(de onde você veio e para onde você vai)
+
+    quem ta embaixo, é child
+
+    quem ta em cima, é parent
+
+window.document.write(window.document.charset)
+window.document.write(window.navigator.appName)
+window.document.write(window.document.URL)
+
+=============== Métodos de Seleção
+
+- por Marca
+
+    * getElementsByTagName()  ---> Seleciona todas tags de determinado Tipos
+
+    var p1 = window.document.getElementsByTagName('p')[0]
+    [0] serve para selecionar um objeto por sua ordem de aparição
+
+- por Identidade
+
+    * getElementById()
+
+- por Nome
+
+    * getElementsByName()
+
+- por Classe
+
+    * getElementsByClassName()
+
+- por Seletor(É mais prático - Seletor tipo CSS)
+
+    * querySelector()
+    * querySelectorAll()
+
+    var d = window.document.querySelector('div#msg')
+    d.style.background = 'blue'
+
+---------------- por Marca
+
