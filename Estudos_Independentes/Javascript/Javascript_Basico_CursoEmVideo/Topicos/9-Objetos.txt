@@ -16,3 +16,7 @@ let amigo = {nome:'José', sexo:'M', peso:85.4, engordar(p){}}
 
     [  José  |  M  |  85.4  | function ]
        nome   sexo    peso    engordar() 
+
+amigo.nome  --->   José
+amigo.sexo  --->   M
+amigo.engordar()  ---> [Executa a função]
