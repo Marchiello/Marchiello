@@ -1,0 +1,18 @@
+=============== Revisão
+
+
+----------------{ Array }--------------
+
+let num = [ "Sim", 2 , True ]
+              0    1     2
+
+Array se limita a ser nomeado pelos seus indices
+
+----------------------------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+----------------{ Objeto }---------------
+
+let amigo = {nome:'José', sexo:'M', peso:85.4, engordar(p){}}
+
+    [  José  |  M  |  85.4  | function ]
+       nome   sexo    peso    engordar() 
