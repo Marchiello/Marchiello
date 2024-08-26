@@ -13,8 +13,3 @@ window.confirm("Texto");
 window.prompt("Texto");
 
 // --==--==--==--==--==--==--==--==--==--==--==--==--==--
-
-
-
-
-//  ---------> Não teve tanta coisa no Módulo 1 :P
