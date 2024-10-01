@@ -1,5 +1,8 @@
 <h1 align="center">Opa! Meu nome é Marcello Vinhais 🤘 Seja bem-vindo(a) ao meu perfil!</h1>
 <p align="center">
+  <a href="https://www.linkedin.com/in/marcello-vinhais-318653328/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://www.instagram.com/marcello_vinhais/_" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
