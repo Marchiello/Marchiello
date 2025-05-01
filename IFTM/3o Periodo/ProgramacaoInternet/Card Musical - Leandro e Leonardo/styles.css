@@ -1,0 +1,217 @@
+/* --thistle: hsla(272, 33%, 83%, 1);
+--english-violet: hsla(277, 20%, 36%, 1);
+--lavender-web: hsla(259, 46%, 91%, 1);
+--smoky-black: hsla(36, 27%, 11%, 1);
+--brown-sugar: hsla(20, 48%, 44%, 1);
+--persian-orange: hsla(23, 69%, 58%, 1); */
+/* $thistle: #D5C6E2ff;
+$english-violet: #5F496Dff;
+$lavender-web: #E3DCF2ff;
+$smoky-black: #231D14ff;
+$brown-sugar: #A75E3Aff;
+$persian-orange: #DD8249ff; */
+
+/* ["D5C6E2","5F496D","E3DCF2","231D14","A75E3A","DD8249"] */
+
+body{
+    background-color: 
+    /* #D5C6E2ff */
+    /* #5F496Dff  */
+    rgb(129, 90, 153) 
+    /* #E3DCF2ff */
+    /* #231D14ff */
+    /* #A75E3Aff */
+    /* #DD8249ff; */
+}
+
+.site{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.card-album {
+    background-color: rgb(24, 20, 35);
+    padding: 3px;
+    border-radius: 10px;
+    margin: 20px;
+    font-family: sans-serif;
+    color: white;
+    height: auto;
+}
+
+.capa{
+    transition: all 0.65s ease-in-out;
+    background-image: url("https://i.scdn.co/image/ab67616d00001e026587dcf9d386227d272aecef");
+    background-size: cover;
+    width: 300px; height: 300px;
+}
+
+.topo-card{
+    background: linear-gradient(to bottom, rgba(90, 65, 105, 0.856) 20%, rgb(24, 20, 35)),
+    url("https://s2-gshow.glbimg.com/SDy-ua60fPPXS_CPfMVoPFUuS04=/0x0:670x489/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2019/b/t/3AJTYkSoO1mjdbzI2KNA/show-amigos-de-1997-o-ultimo-que-contou-com-a-participacao-de-leandro-1.jpg");
+    display: flex;
+    padding:10px;
+    border-radius: 10px;
+    padding: 10px;
+    background-size: 100%;
+    background-position: 0 18%; ;
+}
+
+.album-info{
+    /* background-color: white; */
+    padding: 0px 0px 0px 30px;
+}
+
+.play-album a{
+    background-color: rgba(0, 0, 0, 0.726);
+    padding: 70px;
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+    border-radius: 100%;
+    transition: all 0.45s ease-in-out;
+}
+
+.play-album{
+    margin: 0 0 0 70%;   
+    width: 0px;
+}
+
+.streamings img{
+    width: 70px;
+}
+
+.play-album:hover{
+    background-color: rgba(255, 255, 255, 0.281);
+}
+
+.capa:hover{
+    transform: scale(1.03);
+}
+
+/* -------------------- */
+
+.body-card{
+    /* background-color: rosybrown; */
+    /* height: 20em; */
+    padding: 0 20px 0 20px;
+}
+
+.placeholder-musica{
+    display: flex;
+    /* background-color: rosybrown; */
+}
+
+.numero-faixa{
+    width: 10%;
+    margin: 0 10px 0 70px;
+
+    /* background-color: red; */
+}
+
+.titulo-musica{
+    /* background-color: aqua; */
+    margin: 0 10px 0 10px;
+    width: 70%;
+}
+
+.tempo-musica{
+    /* background-color: blue; */
+    margin: 0 10px 0 10px ;
+    width: 30%;
+}
+
+.gostei{
+    /* background-color: cadetblue;  */
+    margin: 0px 10px 0 10px ;
+    width: 20%;
+}
+
+.gostei img{
+    width: 30px;
+    margin: 10px 0 0 10px;
+    filter: invert(1);
+}
+
+.musica{
+    /* background-color: sandybrown; */
+    display: flex;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    transition: all 0.1s ease-in-out;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.musica:hover{
+    background-color: rgba(255, 255, 255, 0.281);
+}
+
+.foto-artista{
+    background-size: cover;
+    border-radius: 100%;
+    width: 240px;
+    height: 240px;
+    transition: 1s;
+}
+
+.fotos-artistas{
+    margin-top: 20px;
+    /* background-color: white; */
+    text-align: center;
+    display: flex;
+}
+
+.artista{
+    margin: auto;
+}
+
+#leandro{
+    background-image: url("https://www.camara.leg.br/internet/bancoimagem/banco/20130621155254_LeandroMED.jpg");
+}
+
+#leonardo{
+    background-image: url("https://dicionariompb.com.br/wp-content/uploads/2021/04/Leonardo8.jpg");
+    background-position: -55px;
+}
+
+.foto-artista:hover{
+    transform: scale(1.1);
+}
+
+.mini-bio{
+    text-align: center;
+}
+
+.imagem-artista{
+    background-size: cover;
+    background-position: 30%;
+    width: 250px; height: 250px;
+    border-radius: 50%;
+}
+
+#imagem-leandro{
+    background-image: url("https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/08/15175052/cantor-Leandro.jpg");
+}
+
+#imagem-leonardo{
+    background-image: url("https://f.i.uol.com.br/fotografia/2022/07/28/165902275262e2ada0125f8_1659022752_3x2_lg.jpg");
+    
+}
+
+.biografia{
+    display: flex;
+    margin: 50px 0 50px 0px;
+}
+
+.informacoes-artista{
+    /* background-color: aliceblue; */
+    text-align: left;
+    padding: 0 20px 0 20px;
+    width: 70%;
+}
+
+.informacoes-artista h3{
+    text-align: center;
+}
