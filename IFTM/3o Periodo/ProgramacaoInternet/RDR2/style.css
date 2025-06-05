@@ -1,0 +1,312 @@
+@import url("https://fonts.googleapis.com/css2?family=Rye&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* background-color: rgb(119, 0, 0); */
+    background-image: url("https://gmedia.playstation.com/is/image/SIEPDC/red-dead-redemption-2-hero-01-ps4-en-28jul20?$4000px$");
+    background-repeat: repeat;
+    background-size: cover;
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    /* flex: 0; */
+    background-color: rgb(160, 0, 0);
+    display: flex;
+    flex-direction: column;
+    width: 80em;
+    
+}
+
+.container-header{
+    box-shadow: black 10px 20px 20px 20px;
+    background-color: rgb(39, 0, 0);
+    display: flex;
+    padding: 10px;
+    height: max-content;
+}
+
+.header-logo{
+    width: 20em;
+}
+
+.header-menu{
+    /* background-color: brown; */
+    
+    gap:15px;
+    display: flex;
+    /* height: fit-content; */
+    margin: auto;
+    font-size: 1.3em;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.header-button{
+    box-sizing: content-box;
+    font-family: "Rye", serif;
+    font-style: normal;
+    color:white;
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 4px;
+    transition: 0.5s;
+    border: 4px double transparent;
+    font-size: 21px;
+}
+
+.header-button:hover{
+    /* background-color: rgb(185, 35, 35); */
+    /* color: yellow; */
+    background-color: rgba(255, 196, 0, 0.568);
+    /* background-color: rgb(233, 190, 0); */
+    background-color: white;
+    color: black;
+    border: black double 4px;
+}
+
+.container-body{
+    margin-top: 5px;
+    box-shadow: black 10px 20px 20px 20px;
+    color: white;
+    background-color: rgb(138, 0, 0);
+    text-align: center;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    font-size: 26px;
+    line-height: 35px;
+    border: double black 8px; 
+
+}
+
+.container-body h1{
+    font-family: "Rye", serif;
+    text-shadow: black 10px 15px 10px;
+    font-size: 3em;
+    margin: 15px;
+}
+
+.container-body img{
+    border: double white 4px;
+}
+
+.container-body h2, h3{
+    font-family: "Rye", serif;
+    text-shadow: black 10px 15px 10px;
+    font-size: 2em;
+    line-height: 1em;
+    margin: 15px;
+}
+
+/* -------------------------------------- */
+/* 
+.container-footer{
+    margin:
+} */
+
+.primary-images, .secondary-images{
+    box-sizing: border-box;
+    font-family: "Rye", serif;
+    margin: auto;
+    margin-bottom: -20px;
+    transition: ease-in, 2.5s;
+    /* background-color: aliceblue; */
+}
+
+.primary-images{
+    width: 40em;
+}
+
+.secondary-image{
+    width: 20em;
+    max-height: 10em;
+    margin-bottom: -10px;
+}
+
+.secondary-images:hover{
+    transform: scale(1.1);
+    /* transition: 2s */
+}
+
+.image-description, .image-description-primary{
+    box-sizing: border-box;
+    background-color: black;
+    height: 2em;
+    width: 20.38em;
+    margin: auto;
+    line-height: 2.3em;
+}
+.image-description-primary{
+    width: 40em;
+}
+
+.text-images{
+    display: flex;
+}
+
+/* -------------------------------------- */
+
+.relevant-characters{
+    /* background-color: aliceblue; */
+    margin-left: -15px;
+    display: grid;
+    grid-template-areas:
+    "auto auto auto ";
+    gap: 10px;
+    
+}
+
+.character-card{
+    /* background-color: rgba(0, 255, 255, 0.342); */
+    width: 15em;
+    box-sizing: border-box;
+}
+
+.character-image{
+    box-sizing: border-box;
+    width: 15em;
+    max-height: 9em;
+    min-height: 9em;
+}
+
+.character-name{
+    font-family: "Rye", serif;
+    background-color: black;
+    width: 15em;
+    margin-top: -10px;
+}
+
+.character-info{
+    padding: 7px;
+    line-height: 26px;
+    border-top: 1px white solid;
+    background-color: rgb(0, 0, 0);
+    height: fit-content;
+    font-size: 0.9em;
+}
+
+/*  ------------------------- */
+
+.galery{
+    display: grid;
+    grid-template-areas:
+    'auto auto auto';
+    gap: 4px;
+    margin-left: -20px;
+}
+
+.galery img{
+    width: 30.18vw;
+    border: none;
+    max-width: 400px;
+}
+
+#perfect-square{
+    width: 20vw;
+    border: none;
+    margin: auto;
+}
+
+/* -------------------------- */
+
+.pirataria{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+}
+
+.pirataria img{
+    width: 35vw;
+}
+
+.back-to-home{
+    height: fit-content;
+    margin: auto;
+}
+
+
+.back-to-home button{
+    height: 5vw;
+    width: 15vw;
+    font-size: 2em;
+}
+
+/* ------------------------ */
+
+.download-for-free{
+    width: fit-content;
+    margin: auto;
+}
+
+/* ------------------------ */
+
+.contact-form{
+    background-color: rgba(255, 255, 255, 0.37);
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    /* height: 40vw; */
+    border-radius: 20px;
+    border: double black 7px;
+    margin: auto;
+    color: black;
+    padding: 1vw;
+    text-align: center;
+}
+
+.form-infos{
+    /* background-color: aqua; */
+    /* margin-left: 10vw; */
+    margin-top: 5vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.form-infos input, select{
+    border: none;
+    width: 20vw;
+    height: 3vw;
+    font-size: 1.2vw;
+    /* text-align:center; */
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+select{
+    margin-left: 30px;
+}
+
+#comment{
+    /* height: 10vw; */
+    width: 35vw;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.4vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#submit-button{
+    border: none;
+    border-radius: 6px;
+    width: 15vw;
+    height: 6vw;
+    font-size: 1.5vw;
+    transition: 0.1s;
+}
+
+#submit-button:active{
+    background-color: rgb(150, 150, 150);
+}
+
+/* ---------------- */
