@@ -14,7 +14,7 @@
 
 ## Formação Acadêmica: 
   - Curso Técnico em Informática - IFTM Campus Ituiutaba<br/>
-  - Cursando Análise e Desenvolvimento de Sistemas - IFTM Campus Ituiutaba (3/6)  
+  - Graduando Análise e Desenvolvimento de Sistemas - IFTM Campus Ituiutaba (4/6)  
   ## Detenho experiência nas tecnologias:
 
   <div style="display: inline_block" align="center"><br/>
