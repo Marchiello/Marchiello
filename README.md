@@ -6,9 +6,6 @@
   <a href="https://www.instagram.com/marcello_vinhais/_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:marcellovsfilho@outlook.com?subject=From%20GitHub">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
 </p>
 <p align="center"><strong>Para abrir em uma nova aba, use "Ctrl+Click"</strong></p>
 
