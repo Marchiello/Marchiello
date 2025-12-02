@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/marcello-vinhais-318653328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/marcello_vinhais/_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
 </p>
 <p align="center"><strong>Para abrir em uma nova aba, use "Ctrl+Click"</strong></p>
 
