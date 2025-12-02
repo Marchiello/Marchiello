@@ -1,7 +1,7 @@
 <h1 align="center">Opa! Meu nome é Marcello Vinhais 🤘 Seja bem-vindo(a) ao meu perfil!</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/marcello-vinhais-318653328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
 </p>
 <p align="center"><strong>Para abrir em uma nova aba, use "Ctrl+Click"</strong></p>
