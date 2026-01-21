@@ -8,42 +8,137 @@
 
 ## 📚 Formação Acadêmica: 
   - Curso Técnico em Informática - IFTM Campus Ituiutaba<br/>
-  - Graduando Análise e Desenvolvimento de Sistemas - IFTM Campus Ituiutaba (5/6)  
+  - Graduando Análise e Desenvolvimento de Sistemas - IFTM Campus Ituiutaba (5/6)
+<br/><br/><br/>
 
-## 🛠️ Ferramentas e Tecnologias:
+<h2 align="center">🛠️ Ferramentas e Tecnologias:</h2>
 
-<details>
+<details align="center">
   <summary><h2> ⌨️ Backend </h2></summary>
-  <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"/>
-  <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring"/>
-  <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core"/>
-  <img width="50vw" src="" alt=""/>
-  <img width="50vw" src="" alt=""/>
-  <img width="50vw" src="" alt=""/>
+
+  <h3 align="center">Linguagens e Frameworks</h3>
+  <table border="0" align="center">
+    <tr>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"/>
+      <br/>
+      <sub><b>Python</b></sub>
+      </td>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring"/>
+      <br/>
+      <sub><b>Spring</b></sub>
+      </td>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET"/>
+      <br/>
+      <sub><b>.NET</b></sub>
+      </td>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+      <br/>
+      <sub><b>JavaScript</b></sub>
+      </td>
+    </tr>
+  </table>
+  <h3 align="center">API</h3>
+  <table border="0" align="center">
+    <tr>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>
+      <br/>
+      <sub><b>FastAPI</b></sub>
+      </td>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="Swagger"/>
+      <br/>
+      <sub><b>Swagger</b></sub>
+      </td>
+      <td align="center">
+      <img width="50vw" src="https://avatars.githubusercontent.com/u/301879?s=48&v=4" alt="Scalar"/>
+      <br/>
+      <sub><b>Scalar</b></sub>
+      </td>
+    </tr>
+  </table>
+
+---
+  
 </details>
 
-<details>
+<details align="center">
   <summary><h2> 🌐 Web </h2></summary>
-  <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react"/>
-  <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" alt="NextJS"/>
-  <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
-  <img width="50vw" src="" alt=""/>
-  <img width="50vw" src="" alt=""/>
-  <img width="50vw" src="" alt=""/>
+
+  <table border="0" align="center">
+    <tr>
+      <td align="center" style="border: none;">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React"/>
+      <br/>
+      <sub><b>React</b></sub>
+      </td>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" alt="NextJS"/>
+      <br/>
+      <sub><b>Next JS</b></sub>
+      </td>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
+      <br/>
+      <sub><b>Node JS</b></sub>
+      </td>
+    </tr>
+  </table>
+
+---
+  
 </details>
-    
-  <div style="display: inline_block" align="center"><br/>
-    <img alt="html-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="css-3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="node-js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></div></br>
-    <p align="center">Entre outras!</p><br><br>
-  </div></br>
 
+<details align="center">
+  <summary><h2> 🧠 LLM </h2></summary>
 
+  <table border="0" align="center" style="margin:0;">
+    <tr>
+      <td align="center" valign="top" style="margin-top:15">
+      <img width="100vw" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-light.svg" alt="LangChain"/>
+      <br/>
+      <sub><b>LangChain</b></sub>
+      </td>
+      <td align="center" valign="top">
+      <img width="100vw" src="https://camo.githubusercontent.com/5c9a14e3614161f970700e966f46440ba3fbc84d62800f9a99658cf36a281f4c/68747470733a2f2f6c616e67636861696e2d61692e6769746875622e696f2f6c616e6767726170682f7374617469632f776f72646d61726b5f6c696768742e737667" alt="LangGraph"/>
+      <br/>
+      <sub><b>LangGraph</b></sub>
+      </td>
+      <td align="center" valign="top">
+      <img width="50vw" src="https://mintcdn.com/fastmcp/Lu2sdJVHDyHdvswk/assets/brand/wordmark-white.png?fit=max&auto=format&n=Lu2sdJVHDyHdvswk&q=85&s=776d9c0663633c9b9782b9f3f9785960" alt="FastMCP"/>
+      <br/>
+      <sub><b>FastMCP</b></sub>
+      </td>
+    </tr>
+  </table>
+  <table align="center" style="margin:0;">
+    <tr>
+      <td align="center" valign="top">
+      <img width="50vw" src="https://avatars.githubusercontent.com/u/132372032?s=200&v=4" alt="Mistral"/>
+      <br/>
+      <sub><b>Mistral</b></sub>
+      </td>
+      <td align="center" valign="top">
+      <img width="50vw" src="https://avatars.githubusercontent.com/u/188446108?s=48&v=4" alt="Docling"/>
+      <br/>
+      <sub><b>Docling</b></sub>
+      </td>
+      <td align="center" valign="top">
+      <img width="50vw" src="https://avatars.githubusercontent.com/u/54333248?s=48&v=4" alt="Docling"/>
+      <br/>
+      <sub><b>Pinecone</b></sub>
+      </td>
+      <td align="center" valign="top">
+      <img width="50vw" src="https://avatars.githubusercontent.com/u/105881770?s=48&v=4" alt="Chroma"/>
+      <br/>
+      <sub><b>Chroma</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+</details>
 
-    
