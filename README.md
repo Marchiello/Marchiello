@@ -101,8 +101,6 @@
       <br/>
       <sub><b>Tailwind CSS</b></sub>
       </td>
-
-      
     </tr>
   </table>
 
