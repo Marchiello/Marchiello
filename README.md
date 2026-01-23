@@ -96,6 +96,13 @@
       <br/>
       <sub><b>Figma</b></sub>
       </td>
+      <td align="center">
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Figma"/>
+      <br/>
+      <sub><b>Tailwind CSS</b></sub>
+      </td>
+
+      
     </tr>
   </table>
 
