@@ -30,7 +30,7 @@
       <sub><b>Spring Boot</b></sub>
       </td>
       <td align="center">
-      <img width="50vw" src="https://camo.githubusercontent.com/2beeff5c7c9497532b52e728b4ae40dde9e8f8e9f784d594606efdde5b3f2638/68747470733a2f2f692e706f7374696d672e63632f73677a58784432792f6e65742d6672616d65776f726b2e706e67" alt=".NET"/>
+      <img width="50vw" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET"/>
       <br/>
       <sub><b>.NET</b></sub>
       </td>
