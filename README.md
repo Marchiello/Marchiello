@@ -1,5 +1,8 @@
 <h1 align="center">Opa! Meu nome é Marcello Vinhais 🤘 Seja bem-vindo(a) ao meu perfil!</h1>
 <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=Marchiello&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter" />
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/marcello-vinhais-318653328/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
